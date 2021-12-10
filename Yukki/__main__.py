@@ -250,7 +250,7 @@ async def help_button(client, query):
 
 Join here for more information @EvilSupport <|> @EvilUpdates
 
-All com
+Click on the buttons & All commands can be used with: /
  """
     if mod_match:
         module = mod_match.group(1)
